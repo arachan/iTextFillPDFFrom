@@ -4,7 +4,8 @@ iTextFillPDFFrom
 PDFFormにデータを挿入するプログラム
 
 ##Usage
-このソースを元にコンパイルしてJarファイルを作って実行
+このソースを元にコンパイルしてJarファイルを作って実行。
+
 又は、NetBeansのプロジェクトとしてGitでCloneしてコンパイル実行
 
 PDFのフォームにデータを挿入できます。
