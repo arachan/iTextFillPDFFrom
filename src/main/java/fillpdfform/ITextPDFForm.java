@@ -27,7 +27,7 @@ public class ITextPDFForm {
         AcroFields form = stamper.getAcroFields();
         //フォームにテキストを挿入する処理
         form.setField("name", "荒川さん"); //TextBox
-        form.setField("gender","男"); //DropDownList
+        form.setField("gender","男"); //ComboBox
         stamper.close();
     }
 
