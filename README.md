@@ -23,3 +23,9 @@ PDFをiTextの関数で作り上げることは本当にしんどい。
 
 JavaやC#だとiTextがそれをやってのけるので、
 実際に作ってみた。
+
+##License
+AGPL
+
+iText v5.53はAGPLなので、
+AGPLで公開と。
